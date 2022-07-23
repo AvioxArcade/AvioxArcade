@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Aviox Arcade**, the lead programmer of [LionArc](https://lionarc.itch.io/) <br>*(someday we'll have a **✨real✨** website)*
+My name is **Aviox Arcade**, the lead programmer of [LionArc](https://lionarc.itch.io/)
 
 90% of my programming work is proudly done in **GameMaker**
 
@@ -8,9 +8,10 @@ My name is **Aviox Arcade**, the lead programmer of [LionArc](https://lionarc.it
 
 As I work on games and come across needs, I also develop some simple Libraries!
 
-|🎮 - **GameMaker** - ⚙️|📕 - **Libraries** - 📗|
-|---|----|
-|[**Pizazz**](https://github.com/AvioxArcade/Pizazz)<br>Particle Systems made easy. | **TYLR**<br>Runtime auto-tiling tools |
+|<img src = "GameMaker_Logo_WhiteTransparent_small.png" height=45px> - 📕 - **Libraries** - 📗|
+|---|
+|[**Pizazz**](https://github.com/AvioxArcade/Pizazz)<br>Particle Systems made easy. 
+| **TYLR**<br>Runtime auto-tiling tools |
 
 <!--
 **AvioxArcade/AvioxArcade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
