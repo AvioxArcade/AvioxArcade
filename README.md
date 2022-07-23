@@ -8,10 +8,10 @@ My name is **Aviox Arcade**, the lead programmer of [LionArc](https://lionarc.it
 
 As I work on games and come across needs, I also develop some simple Libraries!
 
-|<img src = "GameMaker_Logo_WhiteTransparent_small.png" height=45px> - 📕 - **Libraries** - 📗|
-|---|
-|[**Pizazz**](https://github.com/AvioxArcade/Pizazz)<br>Particle Systems made easy. 
-| **TYLR**<br>Runtime auto-tiling tools |
+|<img src = "GameMaker_Logo_WT_small2.png"> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📕 - Libraries - 📗**|
+|:---:|
+|[**Pizazz**](https://github.com/AvioxArcade/Pizazz) <br> Particle Systems made easy |
+| **TYLR** <br> Auto-tiling at runtime |
 
 <!--
 **AvioxArcade/AvioxArcade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
