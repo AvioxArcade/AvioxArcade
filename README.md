@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Aviox Arcade**, the lead programmer of [LionArc](https://lionarc.itch.io/)
+My name is **Arden** but often go by **Aviox Arcade**, the lead programmer of [LionArc](https://lionarc.itch.io/)
 
 - I'm currently working on **Ember the Warefox**, a small roguelite experience about a girl trying to survive in the woods.
 - LionArc's bigger project, **Pawn's Path**, is a *souls-like* adventure game in a retro-flavored chess world, and has been in development since mid 2018
